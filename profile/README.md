@@ -1,5 +1,7 @@
 # LiMiS
 
+## About
+
 ## Project areas
 
 See the LiMiS project directory on [Committed Sins](https://committedsins.dev/#other-projects).
